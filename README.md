@@ -1,9 +1,7 @@
-# IoT_Animal_Detection
+# IOT BASED SMART AGRICULTURE TO PROTECT CROP FROM ANIMAL INVASION
+                                                                                    
 
-                                                                  IOT BASED SMART AGRICULTURE TO PROTECT CROP FROM
-                                                                                    ANIMAL INVASION
-
-Animal attacks in India are a common story nowadays. Due to the unavailability of any detection these attacks kill villagers and also destroy their crops. Due to lack of proper safety measures, these villagers are left helpless to their fate. Therefore a proper detection could help save their lives and also to the preservation of crops. Also the crops of villagers are destroyed due to frequent interference of animals.The crops and paddy fields cannot be always fenced. So the possibility of crops being eaten away by cows and goats are very much present. This could result in huge wastage of crops produced by the farmers. To making the best use of modern technology , we can prepare a IOT model which protects the crop from an animal invasion. This model gives reliable security and safety to crops, so that the economic losses incurred by our farmers are minimized and they have a good crop yield.
+     Animal attacks in India are a common story nowadays. Due to the unavailability of any detection these attacks kill villagers and also destroy their crops. Due to lack of proper safety measures, these villagers are left helpless to their fate. Therefore a proper detection could help save their lives and also to the preservation of crops. Also the crops of villagers are destroyed due to frequent interference of animals.The crops and paddy fields cannot be always fenced. So the possibility of crops being eaten away by cows and goats are very much present. This could result in huge wastage of crops produced by the farmers. To making the best use of modern technology , we can prepare a IOT model which protects the crop from an animal invasion. This model gives reliable security and safety to crops, so that the economic losses incurred by our farmers are minimized and they have a good crop yield.
 
 
 Hardware components used: 
