@@ -17,22 +17,21 @@ Software Requirements:
 
 Whenever PIR Sensor sense the presence of animal object ,PI Camera turns on and video streaming starts to find the object. Every frame in Video streaming is given to Object detection algorithm i.e., Mobilenet SSD. After detection if system concludes that there is presence of animal then Buzzer will turns on in order to run away animal from the field. Then message notification is sent to the user about animal intrusion with details. We also converted Raspberry Pi into Server which renders the web page for user to view the video streaming with some good options.
 
-
-![alt text](images/Architecture_diagram.png)
 # Architecture Diagram
+![alt text](images/Architecture_diagram.png)
 
-
-![alt text](images/Model.jpg)
 
 # Model 
+![alt text](images/Model.jpg)
 
-![alt text](images/Interface.png)
 
 # User Interface 
-
-![alt text](images/Notification.png)
+![alt text](images/Interface.png)
 
 # Notification received by the former after animal detection. 
+![alt text](images/Notification.png)
+
+
 
 
 
