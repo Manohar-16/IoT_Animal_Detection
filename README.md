@@ -28,7 +28,7 @@ Whenever PIR Sensor sense the presence of animal object ,PI Camera turns on and 
 # User Interface 
 ![alt text](images/Interface.png)
 
-# Notification received by the former after animal detection. 
+# Notification received by the former
 ![alt text](images/Notification.png)
 
 
